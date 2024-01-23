@@ -1,0 +1,676 @@
+{
+  "name": "Nation Of LOBY",
+  "id": "1123111170258239589",
+  "channels": [
+    {
+      "name": "Text Channels",
+      "position": 0,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "Voice Channels",
+      "position": 1,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "⟪📢⟫⬩meeting 1",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⟪📢⟫⬩meeting 2",
+      "position": 1,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "<🔈> ROOM  🥇",
+      "position": 2,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⟪💬⟫⬩general-chat",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "<🔈> ROOM 🥈",
+      "position": 3,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⟪📸⟫⬩media",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "<🤝> • FRIENDLY",
+      "position": 4,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⟪🐸⟫⬩meme-neko",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "⟪📋⟫⬩check⬩rank⬩level",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "⟪💌⟫⬩commands",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "⟪🎶⟫⬩request-song",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ip-server📲",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "welcome",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "《mods-log》",
+      "position": 2,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "mods-logs",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "rules",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "moderator-only",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "The Legend",
+      "position": 5,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "free-mod",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "test-register",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    }
+  ],
+  "roles": [
+    {
+      "name": "@everyone",
+      "permissions": [
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "ProBot ✨",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "VIEW_AUDIT_LOG",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS"
+      ]
+    },
+    {
+      "name": "carl-bot",
+      "permissions": [
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS"
+      ]
+    },
+    {
+      "name": "OWNER 🤴",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "FRIEND Owner",
+      "permissions": [
+        "ADMINISTRATOR",
+        "MANAGE_GUILD",
+        "VIEW_AUDIT_LOG",
+        "MANAGE_ROLES"
+      ]
+    },
+    {
+      "name": "TOP BOT 🤖",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Admin",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Cute Girl<33",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "ATTACH_FILES",
+        "MENTION_EVERYONE",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "🤖❘• BOT",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "MEMBER LOBY",
+      "permissions": [
+        "ADD_REACTIONS",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "MEMBER RUGAL 👬",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "ServerStatsBeta",
+      "permissions": [
+        "MANAGE_CHANNELS",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "CONNECT"
+      ]
+    },
+    {
+      "name": "Flantic",
+      "permissions": [
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS"
+      ]
+    },
+    {
+      "name": "ServerStats",
+      "permissions": [
+        "MANAGE_CHANNELS",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "CONNECT"
+      ]
+    },
+    {
+      "name": "Dyno",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Kilo Sahav",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "kmeng tuch p’kea yum",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Jockie Music",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Server Booster",
+      "permissions": [
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Succes",
+      "permissions": [
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "new role",
+      "permissions": [
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    }
+  ],
+  "voiceChannels": []
+}

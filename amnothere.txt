@@ -1,0 +1,398 @@
+[
+  {
+    "id": "960987810276450335",
+    "name": "JOKS UNIVERSE"
+  },
+  {
+    "id": "1162706873686958080",
+    "name": "Cam  Development"
+  },
+  {
+    "id": "879628544941105172",
+    "name": "Itx_Orange Hub"
+  },
+  {
+    "id": "935341227400904734",
+    "name": "TrafficerMC"
+  },
+  {
+    "id": "965981227922391070",
+    "name": "PizzaSMP"
+  },
+  {
+    "id": "988751026570031106",
+    "name": "Angkor Together RolePlay"
+  },
+  {
+    "id": "811255666990907402",
+    "name": "Aliuwucord"
+  },
+  {
+    "id": "955436221834854400",
+    "name": "AngkorCraft || Season XI"
+  },
+  {
+    "id": "798174267464351794",
+    "name": "David Education Center"
+  },
+  {
+    "id": "1074173769960149042",
+    "name": "MAZER-SMP"
+  },
+  {
+    "id": "662267976984297473",
+    "name": "Midjourney"
+  },
+  {
+    "id": "871990955199324170",
+    "name": "XinG-MaZer"
+  },
+  {
+    "id": "798411359297601556",
+    "name": "De Bois Server"
+  },
+  {
+    "id": "1034323623747538955",
+    "name": "Alpha"
+  },
+  {
+    "id": "877187821511794730",
+    "name": "AML: Android Mod Loader"
+  },
+  {
+    "id": "724163890803638273",
+    "name": "PojavLauncher"
+  },
+  {
+    "id": "1148562094787133502",
+    "name": "Angkor Together RolePlay"
+  },
+  {
+    "id": "1111113604989714535",
+    "name": "MOROC"
+  },
+  {
+    "id": "1094085214894047272",
+    "name": "Vorn Narak"
+  },
+  {
+    "id": "851645163515805751",
+    "name": "GTA SA ONLINE SAMP"
+  },
+  {
+    "id": "950850315601711176",
+    "name": "Enmity"
+  },
+  {
+    "id": "848554296584175616",
+    "name": "2YOU | FiveM Scripts free"
+  },
+  {
+    "id": "792465942604283925",
+    "name": "Holiday City Roleplay"
+  },
+  {
+    "id": "848516856620384276",
+    "name": "𝕹𝖊𝖔𝖓𝕲𝖗𝖎𝖊𝖋𝖊𝖗𝖘 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑"
+  },
+  {
+    "id": "999690231819292753",
+    "name": "GigaNodes - Experience the Best"
+  },
+  {
+    "id": "1063804178582994984",
+    "name": "𝐒𝐨𝐧𝐓𝐞𝐩𝐡𝐞𝐚𝐩 𝐂𝐢𝐭𝐲 𝐑𝐏"
+  },
+  {
+    "id": "1031646525044039772",
+    "name": "BlueFox"
+  },
+  {
+    "id": "1090631433833431142",
+    "name": "AI century"
+  },
+  {
+    "id": "909713996909776956",
+    "name": "Phnom Penh Roleplay Official"
+  },
+  {
+    "id": "489455236457693184",
+    "name": "Ultra-Host"
+  },
+  {
+    "id": "893402575028781056",
+    "name": "Angkor Survival Minecraft"
+  },
+  {
+    "id": "1129996848812265503",
+    "name": "OuDonG 4.0 Offical"
+  },
+  {
+    "id": "824345137856512010",
+    "name": "Project SobFoX !"
+  },
+  {
+    "id": "1090114423361916948",
+    "name": "AI World"
+  },
+  {
+    "id": "974519864045756446",
+    "name": "OpenAI"
+  },
+  {
+    "id": "299949507989340160",
+    "name": "DonutSMP"
+  },
+  {
+    "id": "1085560604267393124",
+    "name": "MEE6™ AI"
+  },
+  {
+    "id": "799069324643139634",
+    "name": "NicktrosGaming"
+  },
+  {
+    "id": "1097198025346125924",
+    "name": "PAKASAK"
+  },
+  {
+    "id": "1029007170995503144",
+    "name": "Angkor Together RP"
+  },
+  {
+    "id": "1046780150605418567",
+    "name": "Novo Studios"
+  },
+  {
+    "id": "1011533698627276800",
+    "name": "FONG"
+  },
+  {
+    "id": "834731016509849630",
+    "name": "ដូណូ"
+  },
+  {
+    "id": "336813893383094273",
+    "name": "UnuAlex's Realm"
+  },
+  {
+    "id": "953888341412167681",
+    "name": "MAZER-CLUB"
+  },
+  {
+    "id": "762311012447420466",
+    "name": "SAMP MOBILE"
+  },
+  {
+    "id": "710897801839771669",
+    "name": "Naon Community"
+  },
+  {
+    "id": "875332200709640212",
+    "name": "LegendTeveda"
+  },
+  {
+    "id": "1038811694710923344",
+    "name": "LeverMC"
+  },
+  {
+    "id": "828910517766324235",
+    "name": "Golden Gaming KH"
+  },
+  {
+    "id": "1077605722621235280",
+    "name": "Smoky"
+  },
+  {
+    "id": "915931959228780614",
+    "name": "» ttProxy.club « [ENG]"
+  },
+  {
+    "id": "709473832985034773",
+    "name": "Scripting Pawn Romania [since 2020]"
+  },
+  {
+    "id": "982889865429545000",
+    "name": "AngkorDevelopment | Plugin"
+  },
+  {
+    "id": "1009525727504384150",
+    "name": "Google Developer Community"
+  },
+  {
+    "id": "907740900954873926",
+    "name": "🎅• C-razy Community •"
+  },
+  {
+    "id": "674494136962777109",
+    "name": "HH"
+  },
+  {
+    "id": "757454364255453204",
+    "name": "𝐉𝐮𝐥𝐢𝐞_𝐊𝐚"
+  },
+  {
+    "id": "1171214111741317210",
+    "name": "/sneakylink"
+  },
+  {
+    "id": "1142308898137702520",
+    "name": "HeangTHeKIng's server"
+  },
+  {
+    "id": "857112861468786688",
+    "name": "Wild Ratio"
+  },
+  {
+    "id": "914375192246112257",
+    "name": "Fuzzy's Family"
+  },
+  {
+    "id": "887796537751654431",
+    "name": "Angkor City"
+  },
+  {
+    "id": "926460550391664740",
+    "name": "Samp Mappings and Scripts"
+  },
+  {
+    "id": "981200734215356446",
+    "name": "GARCIA SAMP #GO7K"
+  },
+  {
+    "id": "1102048075981258913",
+    "name": "Angkor Together RolePlay"
+  },
+  {
+    "id": "1192760473993629718",
+    "name": "kuromi ✧'s server"
+  },
+  {
+    "id": "1122465344959807508",
+    "name": "GigaNodes - Experience the Best"
+  },
+  {
+    "id": "979487922480881694",
+    "name": "XinG-MaZer"
+  },
+  {
+    "id": "1052225792358223872",
+    "name": "CAMBO RP"
+  },
+  {
+    "id": "1042451732501905470",
+    "name": "SY HOSTING"
+  },
+  {
+    "id": "1008612998195200010",
+    "name": "KAT FENZY OFFICIAL"
+  },
+  {
+    "id": "826295863747543070",
+    "name": "Charliecustard Builds"
+  },
+  {
+    "id": "1122048337277898874",
+    "name": "Phum Khmer Roleplay"
+  },
+  {
+    "id": "858570964584759316",
+    "name": "CPRP Role play 🇰🇭"
+  },
+  {
+    "id": "1066697713854455869",
+    "name": "FlameSQ | Discord"
+  },
+  {
+    "id": "932633742063833119",
+    "name": "AsiaGriefer | Community"
+  },
+  {
+    "id": "1086859903844495382",
+    "name": "KRONG PRASAT"
+  },
+  {
+    "id": "1046979304547954728",
+    "name": "LimeWire - create AI Images, Audio & Video"
+  },
+  {
+    "id": "405240141989412864",
+    "name": "𝗞𝒆𝒎𝒉𝞂𝛍𝗿ヅˢᵉᵛᵉʳ"
+  },
+  {
+    "id": "927096278326837298",
+    "name": "Rico Endico Club"
+  },
+  {
+    "id": "838759492128735232",
+    "name": "4YOU FIVEM STUFF"
+  },
+  {
+    "id": "1043535469771767808",
+    "name": "🐶 𝐈𝐁𝐎 𝗦𝗘𝗔𝗦𝗢𝗡.𝟮"
+  },
+  {
+    "id": "839441703462764565",
+    "name": "RStore Mapping"
+  },
+  {
+    "id": "800906094729101353",
+    "name": "IShowSpeed’s Discord"
+  },
+  {
+    "id": "972555723458359316",
+    "name": "SingCraft | Community Network"
+  },
+  {
+    "id": "880811589077438464",
+    "name": "ChesterMC || Season 2 ||"
+  },
+  {
+    "id": "1091796828917346418",
+    "name": "𝓓𝓮 𝓥𝓲𝓽𝓱 🧸"
+  },
+  {
+    "id": "1082858951844036669",
+    "name": "Chat with GPT"
+  },
+  {
+    "id": "730356582872776795",
+    "name": "SAMP MOD MOBILE • Discord Server"
+  },
+  {
+    "id": "1061370086331523176",
+    "name": "GPT3Discord"
+  },
+  {
+    "id": "1178953129518178355",
+    "name": "CelexCraft | Premium Hosting"
+  },
+  {
+    "id": "950188013466558464",
+    "name": "OuDonG Roleplay 3.0 Official"
+  },
+  {
+    "id": "930520991724081162",
+    "name": "JeXx"
+  },
+  {
+    "id": "1040556006104641566",
+    "name": "Legends"
+  },
+  {
+    "id": "1123111170258239589",
+    "name": "Nation Of LOBY"
+  },
+  {
+    "id": "897638694914244669",
+    "name": "Urban Hangout"
+  },
+  {
+    "id": "1092334547577876532",
+    "name": "GoodGuy"
+  },
+  {
+    "id": "1044613246532997151",
+    "name": "Prime"
+  }
+]

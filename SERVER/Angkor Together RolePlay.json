@@ -1,0 +1,964 @@
+{
+  "name": "Angkor Together RolePlay",
+  "id": "1148562094787133502",
+  "channels": [
+    {
+      "name": "🚨》cardealer-showroom",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Real estate",
+      "position": 11,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "⬜》កន្លែងដាក់ច្បាប់",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "All Members: 1290",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "Mechanic",
+      "position": 12,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐀𝐓𝐑𝐏",
+      "position": 4,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "ជ្រើសរើសបុគ្គលិក",
+      "position": 10,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🚨》cardealer-announce",
+      "position": 0,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "FOR ADMIN",
+      "position": 19,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐌𝐨𝐝𝐥𝐨𝐠𝐬",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟦》•𝙿𝙾𝙻𝙸𝙲𝙴-ខោអាវ",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐑𝐨𝐥𝐞",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "⬜》real-estate-ច្បាប់",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄",
+      "position": 1,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "📃》•𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐂𝐡𝐚𝐭-𝐖𝐡𝐢𝐭𝐞𝐥𝐢𝐬𝐭",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះចេញបាញ់",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🚨》gang-announce",
+      "position": 0,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "ʟᴏɢ-sᴛᴀᴛᴜs-sᴇʀᴠᴇʀ",
+      "position": 9,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐂𝐢𝐭𝐲-𝐔𝐩𝐝𝐚𝐭𝐞",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐇𝐞𝐥𝐩-𝐃𝐞𝐬𝐤",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🛑》•𝙳𝙾𝙲𝚃𝙾𝚁-𝚁𝚎𝚙𝚘𝚛𝚝",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះសមាជិក",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🎙》•𝙿𝙾𝙻𝙸𝙲𝙴-𝙼𝚎𝚎𝚝𝚒𝚗𝚐",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🛑》•𝙿𝙾𝙻𝙸𝙲𝙴-𝚁𝚎𝚙𝚘𝚛𝚝",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐌𝐞𝐞𝐭𝐢𝐧𝐠 𝐆𝐚𝐧𝐠",
+      "position": 1,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "𝐒𝐞𝐭𝐭𝐢𝐧𝐠-𝐒𝐀-𝐌𝐏",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "GOD HAND GANG",
+      "position": 15,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះសមាជិក",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "●𝐴𝑑𝑚𝑖𝑛●",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🟦》•របាយការណ៍ប៉ូលីស",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "chenh4x",
+      "position": 13,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 𝐀𝐓𝐑𝐏",
+      "position": 3,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "ʟᴏɢ-ᴊᴏɪɴ-ʟᴇᴀᴠᴇ",
+      "position": 11,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐂𝐡𝐚𝐭-𝐌𝐞𝐦𝐛𝐞𝐫",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐂𝐢𝐭𝐲-𝐄𝐯𝐞𝐧𝐭",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐎𝐮𝐤𝐧𝐡𝐚&𝐂𝐚𝐫𝐝𝐞𝐚𝐥𝐞𝐫",
+      "position": 7,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝗣𝗢𝗟𝗜𝗖𝗘",
+      "position": 8,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐌𝐞𝐞𝐭𝐢𝐧𝐠 𝐀𝐓𝐑𝐏",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "ᴜᴘᴅᴀᴛᴇ-sᴇʀᴠᴇʀ",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ʙᴏᴛ-ᴀᴅᴍɪɴ",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ambulance-register",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "〢ᴍᴏᴅɪɴɢ",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ouknha-car",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ʙᴏᴛ-sᴇʀᴠᴇʀ",
+      "position": 8,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐓𝐢𝐩𝐬",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐈𝐧𝐯𝐢𝐭𝐞-𝐋𝐢𝐧𝐤",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Boosts: 0",
+      "position": 3,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "𝐓𝐢𝐩𝐬-𝐀𝐓𝐑𝐏",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Bots: 9",
+      "position": 2,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🟥》•𝙳𝙾𝙲𝚃𝙾𝚁-𝙰𝙽𝙽𝙾𝚄𝙽𝙲𝙴",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📋》real-estate-chat",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📃》•ឯកសារនគរបាល",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "police-register",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟦》•𝙿𝙾𝙻𝙸𝙲𝙴-ᴍᴇᴍʙᴇʀ",
+      "position": 7,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ʟᴏɢ-ᴅᴇᴀᴛʜ",
+      "position": 10,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐀𝐍𝐍𝐎𝐔𝐂𝐄𝐌𝐀𝐍𝐓",
+      "position": 2,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐖𝐞𝐥𝐜𝐨𝐦𝐞",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐀𝐓𝐏𝐃-𝐀𝐍𝐍𝐎𝐔𝐂𝐄𝐌𝐀𝐍𝐓",
+      "position": 1,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "YANAKA GANG",
+      "position": 14,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐕𝐃𝐎-𝐉𝐎𝐈𝐍-𝐀𝐓𝐑𝐏",
+      "position": 3,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "ATRP MOD",
+      "position": 16,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐁𝐚𝐧𝐧𝐞𝐝",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟦》•𝙿𝙾𝙻𝙸𝙲𝙴-role",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐒𝐭𝐫𝐞𝐚𝐦𝐞𝐫-𝐋𝐢𝐧𝐤",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះសមាជិក",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះចេញបាញ់",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐂𝐂𝐕",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐄𝐐𝐔𝐄𝐒𝐓𝐒𝐎𝐍𝐆",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Talking Mod",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "📣》mechanic-announce",
+      "position": 0,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "𝐇𝐨𝐮𝐬𝐞-𝐕𝐈𝐏",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟦》•𝙿𝙾𝙻𝙸𝙲𝙴-chat",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟥》•𝙳𝙾𝙲𝚃𝙾𝚁-ខោអាវ",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐀𝐓𝐑𝐏-𝐀𝐍𝐍𝐎𝐔𝐂𝐄𝐌𝐀𝐍𝐓",
+      "position": 0,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "📃》•𝙳𝙾𝙲𝚃𝙾𝚁-ច្បាប់",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះចេញបាញ់",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📊 SERVER STATS 📊",
+      "position": 0,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐒𝐮𝐩𝐩𝐨𝐫𝐭-𝐀𝐓𝐑𝐏",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧",
+      "position": 7,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Members: 1281",
+      "position": 1,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "𝐄𝐌𝐒-𝐀𝐍𝐍𝐎𝐔𝐂𝐄𝐌𝐀𝐍𝐓",
+      "position": 2,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "⚰》•𝗔𝗰𝗰𝗲𝗽𝘁-𝗗𝗲𝗮𝘁𝗵",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐖𝐚𝐲 𝐀𝐓𝐑𝐏",
+      "position": 5,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐑𝐔𝐋𝐄-𝐆𝐀𝐍𝐆",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Virus",
+      "position": 18,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐓𝐚𝐥𝐤𝐢𝐧𝐠",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "EMS",
+      "position": 9,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "𝐂𝐡𝐚𝐭-𝐀𝐓𝐑𝐏",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "FOR GANG",
+      "position": 13,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🚨》moto-showroom",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐔𝐋𝐄-𝐀𝐓𝐑𝐏",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ᴄᴍᴅ-ᴘʟᴀʏᴇʀ",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ʙᴏᴛ-sᴇʀᴠᴇʀ",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📃》•កន្លែងដាក់ច្បាប់",
+      "position": 8,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📋》ឯកសារ",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🎙》•𝙳𝙾𝙲𝚃𝙾𝚁-𝙼𝚎𝚎𝚝𝚒𝚗𝚐",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⬜》real-estate-report",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐏𝐢𝐜-𝐀𝐓𝐑𝐏",
+      "position": 0,
+      "type": "GUILD_FORUM"
+    },
+    {
+      "name": "𝐅𝐁-𝐏𝐚𝐠𝐞-𝐆𝐑",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះចេញបាញ់",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🟦》•𝙿𝙾𝙻𝙸𝙲𝙴-𝙰𝙽𝙽𝙾𝚄𝙽𝙲𝙴",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐇𝐄𝐋𝐏 𝐃𝐄𝐒𝐊",
+      "position": 6,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "⬜》real-estate-member",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "bot-chat",
+      "position": 12,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐑𝐞𝐩𝐨𝐫𝐭-𝐁𝐮𝐠",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐖𝐚𝐫𝐧𝐢𝐧𝐠",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "●chat-𝐴𝑑𝑚𝑖𝑛●",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ᴡᴀʀɴɪɴɢ-ʙᴀɴɴᴇᴅ",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐇𝐞𝐥𝐩-𝐃𝐞𝐬𝐤-𝐅𝐨𝐫𝐦",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐈𝐏-𝐒𝐞𝐫𝐯𝐞𝐫",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "ʀᴇᴘᴏʀᴛ-ʜᴀᴄᴋ",
+      "position": 7,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "𝐇𝐞𝐥𝐩 𝐃𝐞𝐬𝐤",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "📃》•ឯកសារអង្គភាព",
+      "position": 9,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "បញ្ជីឈ្មោះសមាជិក",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "Violet Venom",
+      "position": 17,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "ouknha-information",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Content Creator",
+      "permissions": []
+    },
+    {
+      "name": "Developer 🧑‍💻",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "ឧកញ៉ា🧑‍💼",
+      "permissions": []
+    },
+    {
+      "name": "CEO ATRP🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "Angkor Together Music",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "ហាងបាយក្រុងអង្គរ🍞",
+      "permissions": []
+    },
+    {
+      "name": "@everyone",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "អ្នកលក់អចលនទ្រព្យ🧑‍🎓",
+      "permissions": []
+    },
+    {
+      "name": "Virus",
+      "permissions": []
+    },
+    {
+      "name": "Quarantine",
+      "permissions": []
+    },
+    {
+      "name": "Content Creator",
+      "permissions": []
+    },
+    {
+      "name": "Angkor Together Roleplay",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Unverified",
+      "permissions": []
+    },
+    {
+      "name": "Designer🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "🧑‍💻ᴀᴅᴍɪɴ ᴀᴛʀᴘ🧑‍💻",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Admin ATRP🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "នគរបាលក្រុងអង្គរ👮",
+      "permissions": [
+        "MENTION_EVERYONE"
+      ]
+    },
+    {
+      "name": "Security",
+      "permissions": [
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Admin Page🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "រថយន្ត VIP",
+      "permissions": []
+    },
+    {
+      "name": "Jockie Music (1)",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "អ្នកលក់ម៉ូតូ 🧑‍💼",
+      "permissions": []
+    },
+    {
+      "name": "Koya",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "ឧទ្ធម្ភចក្រ​ VIP",
+      "permissions": []
+    },
+    {
+      "name": "ATRP Whitelist🧍",
+      "permissions": []
+    },
+    {
+      "name": "Server Booster",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Jockie Music (3)",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Content Creator",
+      "permissions": []
+    },
+    {
+      "name": "ʙᴏᴛ sᴇʀᴠᴇʀ",
+      "permissions": [
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "SEND_MESSAGES_IN_THREADS"
+      ]
+    },
+    {
+      "name": "ផ្ទះ VIP",
+      "permissions": []
+    },
+    {
+      "name": "Jockie Music (2)",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "ម៉ូតូ VIP",
+      "permissions": []
+    },
+    {
+      "name": "ServerStats",
+      "permissions": [
+        "MANAGE_CHANNELS",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "CONNECT"
+      ]
+    },
+    {
+      "name": "មន្ទីពេទ្យក្រុងអង្គរ🚑",
+      "permissions": []
+    },
+    {
+      "name": "Admin Mod🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "មេកានិច🧑‍🔧",
+      "permissions": []
+    },
+    {
+      "name": "ប្រជាជនក្រុងអង្គរ",
+      "permissions": []
+    },
+    {
+      "name": "Owner🧑‍💻",
+      "permissions": []
+    },
+    {
+      "name": "Jockie Music",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴇʀᴠᴇʀ🧑‍💻 Develeoper",
+      "permissions": []
+    },
+    {
+      "name": "សមាជិក VIP🧑‍💼",
+      "permissions": []
+    },
+    {
+      "name": "អ្នកលក់រថយន្ត🧑‍💼",
+      "permissions": []
+    }
+  ],
+  "voiceChannels": []
+}

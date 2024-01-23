@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Server Data Viewer</title>
+  <style>
+    body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.server-box {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.server-box:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.server-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #007bff; /* Blue color for server names */
+}
+
+.channel-list, .role-list {
+  list-style: none;
+  padding: 0;
+}
+
+.channel-list li, .role-list li {
+  margin-bottom: 8px;
+}
+
+/* Animation for list items */
+.channel-list li, .role-list li {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.server-box:hover .channel-list li, .server-box:hover .role-list li {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+  </style>
+</head>
+<body>
+  <h1>Server Data Viewer</h1>
+  <div id="server-list"></div>
+
+  <script>
+    // Fetch server data and update the HTML
+    async function fetchServerData() {
+      const response = await fetch('/servers');
+      const data = await response.json();
+      const serverListElement = document.getElementById('server-list');
+
+      data.forEach(server => {
+        const serverBox = document.createElement('div');
+        serverBox.className = 'server-box';
+
+        const serverNameElement = document.createElement('div');
+        serverNameElement.className = 'server-name';
+        serverNameElement.textContent = server.name;
+        serverBox.appendChild(serverNameElement);
+
+        const channelListElement = document.createElement('ul');
+        channelListElement.className = 'channel-list';
+        server.channels.forEach(channel => {
+          const listItem = document.createElement('li');
+          listItem.textContent = `${channel.name} (${channel.type}) (Position: ${channel.position})`;
+          channelListElement.appendChild(listItem);
+        });
+        serverBox.appendChild(channelListElement);
+
+        const roleListElement = document.createElement('ul');
+        roleListElement.className = 'role-list';
+        server.roles.forEach(role => {
+          const listItem = document.createElement('li');
+          listItem.textContent = `${role.name}`;
+          roleListElement.appendChild(listItem);
+        });
+        serverBox.appendChild(roleListElement);
+
+        serverListElement.appendChild(serverBox);
+      });
+    }
+
+    // Fetch server data on page load
+    fetchServerData();
+  </script>
+</body>
+</html>

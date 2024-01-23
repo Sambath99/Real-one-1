@@ -1,0 +1,841 @@
+{
+  "name": "LeverMC",
+  "id": "1038811694710923344",
+  "channels": [
+    {
+      "name": "⚡ GENERAL",
+      "position": 1,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🔊 voice",
+      "position": 3,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🎤┃Vc 01",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🎤┃Vc 02",
+      "position": 1,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "📌┃𝗜𝗻𝗳𝗼-𝗥𝘂𝗹𝗲𝘀",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🎤┃Vc 03",
+      "position": 2,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🔒┃01",
+      "position": 0,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🎫┃tickets",
+      "position": 6,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "💎︱𝙎𝙩𝙤𝙧𝙚",
+      "position": 3,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "💬┃chat",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📸┃media",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🤖┃commands",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🔒┃chat",
+      "position": 1,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🚫┃𝗕𝗮𝗻𝗻𝗲𝗱",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🚫┃𝗕𝗮𝗻𝗻𝗲𝗱",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🎶┃music",
+      "position": 2,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "🎤┃Vc 04",
+      "position": 3,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🎤┃Vc 05",
+      "position": 4,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "🎬┃uploads",
+      "position": 4,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "⛔┃staff-rule",
+      "position": 3,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "👑 Server",
+      "position": 0,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🌟︱events",
+      "position": 5,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "📢┃𝗔𝗻𝗼𝘂𝗻𝗰𝗲𝗺𝗲𝗻𝘁",
+      "position": 1,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "⛔ STAFF",
+      "position": 5,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "⛔ STAFF VC",
+      "position": 4,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "🔒┃02",
+      "position": 1,
+      "type": "GUILD_VOICE"
+    },
+    {
+      "name": "⛔┃staff-annouce",
+      "position": 0,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📜︱logs",
+      "position": 4,
+      "type": "GUILD_TEXT"
+    },
+    {
+      "name": "📜︱change-logs",
+      "position": 2,
+      "type": "GUILD_NEWS"
+    },
+    {
+      "name": "🤖 Minecaft-Server",
+      "position": 2,
+      "type": "GUILD_CATEGORY"
+    },
+    {
+      "name": "inactive-warning",
+      "position": 5,
+      "type": "GUILD_TEXT"
+    }
+  ],
+  "roles": [
+    {
+      "name": "Sapphire",
+      "permissions": [
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "MUTE_MEMBERS",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS"
+      ]
+    },
+    {
+      "name": "Admin",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADMINISTRATOR",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Security",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "🎥| Media",
+      "permissions": []
+    },
+    {
+      "name": "Lever SMP",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "🤖| BOT",
+      "permissions": [
+        "EMBED_LINKS"
+      ]
+    },
+    {
+      "name": "Emprire",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Head-Admin",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "👮| MOD",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_ROLES",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_EVENTS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "new role",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "ADMIN-PLUS",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "PRIORITY_SPEAKER",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "VIEW_GUILD_INSIGHTS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Hydra",
+      "permissions": [
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "ADD_REACTIONS",
+        "PRIORITY_SPEAKER",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD"
+      ]
+    },
+    {
+      "name": "🌍| Member",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "TheanMusic",
+      "permissions": [
+        "MANAGE_CHANNELS",
+        "ADD_REACTIONS",
+        "PRIORITY_SPEAKER",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "MANAGE_ROLES",
+        "USE_APPLICATION_COMMANDS",
+        "USE_EXTERNAL_STICKERS"
+      ]
+    },
+    {
+      "name": "🔒| Staff",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Lever SMP",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "Owner",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADMINISTRATOR",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "@everyone",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "new role",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "💠| Helper",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "carl-bot",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "SEND_TTS_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD"
+      ]
+    },
+    {
+      "name": "Security-Bot",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "new role",
+      "permissions": []
+    },
+    {
+      "name": "LeverMC",
+      "permissions": [
+        "ADMINISTRATOR"
+      ]
+    },
+    {
+      "name": "ServerStats",
+      "permissions": [
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "CONNECT"
+      ]
+    },
+    {
+      "name": "Koya",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "ADD_REACTIONS",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MENTION_EVERYONE",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MUTE_MEMBERS",
+        "DEAFEN_MEMBERS",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_APPLICATION_COMMANDS",
+        "MANAGE_EVENTS",
+        "MANAGE_THREADS",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "retired",
+      "permissions": []
+    },
+    {
+      "name": "Server Booster",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "Ticket Tool",
+      "permissions": [
+        "MANAGE_CHANNELS",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "MANAGE_ROLES",
+        "USE_APPLICATION_COMMANDS"
+      ]
+    },
+    {
+      "name": "⚙️| MC DEV",
+      "permissions": []
+    },
+    {
+      "name": "Dyno",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "KICK_MEMBERS",
+        "BAN_MEMBERS",
+        "ADMINISTRATOR",
+        "MANAGE_CHANNELS",
+        "MANAGE_GUILD",
+        "VIEW_AUDIT_LOG",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "MANAGE_MESSAGES",
+        "EMBED_LINKS",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "MOVE_MEMBERS",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "MANAGE_NICKNAMES",
+        "MANAGE_ROLES",
+        "MANAGE_WEBHOOKS",
+        "MANAGE_EMOJIS_AND_STICKERS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "MODERATE_MEMBERS"
+      ]
+    },
+    {
+      "name": "Donater",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    },
+    {
+      "name": "MVP",
+      "permissions": []
+    },
+    {
+      "name": "🤖|BOTs",
+      "permissions": [
+        "CREATE_INSTANT_INVITE",
+        "ADMINISTRATOR",
+        "ADD_REACTIONS",
+        "STREAM",
+        "VIEW_CHANNEL",
+        "SEND_MESSAGES",
+        "EMBED_LINKS",
+        "ATTACH_FILES",
+        "READ_MESSAGE_HISTORY",
+        "USE_EXTERNAL_EMOJIS",
+        "CONNECT",
+        "SPEAK",
+        "USE_VAD",
+        "CHANGE_NICKNAME",
+        "USE_APPLICATION_COMMANDS",
+        "REQUEST_TO_SPEAK",
+        "USE_PUBLIC_THREADS",
+        "CREATE_PUBLIC_THREADS",
+        "USE_PRIVATE_THREADS",
+        "CREATE_PRIVATE_THREADS",
+        "USE_EXTERNAL_STICKERS",
+        "SEND_MESSAGES_IN_THREADS",
+        "START_EMBEDDED_ACTIVITIES"
+      ]
+    }
+  ],
+  "voiceChannels": []
+}
